@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectSwitch", "ProjectSwi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectTernaryOperator", "ProjectTernaryOperator\ProjectTernaryOperator.csproj", "{6BC41767-B74E-490C-97DA-6D4854BFD2B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pryamaya", "Pryamaya\Pryamaya.csproj", "{EDBC9993-442A-4FFA-B95D-50D857392DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "griby", "griby\griby.csproj", "{B45BCF87-231D-4D20-B077-FADEB854F5B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{6BC41767-B74E-490C-97DA-6D4854BFD2B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BC41767-B74E-490C-97DA-6D4854BFD2B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BC41767-B74E-490C-97DA-6D4854BFD2B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDBC9993-442A-4FFA-B95D-50D857392DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDBC9993-442A-4FFA-B95D-50D857392DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDBC9993-442A-4FFA-B95D-50D857392DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDBC9993-442A-4FFA-B95D-50D857392DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B45BCF87-231D-4D20-B077-FADEB854F5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B45BCF87-231D-4D20-B077-FADEB854F5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B45BCF87-231D-4D20-B077-FADEB854F5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B45BCF87-231D-4D20-B077-FADEB854F5B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

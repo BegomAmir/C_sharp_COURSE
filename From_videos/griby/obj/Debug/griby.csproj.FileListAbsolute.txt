@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\griby\bin\Debug\griby.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\griby\bin\Debug\griby.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\griby\bin\Debug\griby.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\griby\obj\Debug\griby.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\griby\obj\Debug\griby.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\griby\obj\Debug\griby.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\griby\obj\Debug\griby.pdb
