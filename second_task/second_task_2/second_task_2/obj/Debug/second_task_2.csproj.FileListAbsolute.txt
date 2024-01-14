@@ -1,7 +1,0 @@
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_2\second_task_2\bin\Debug\second_task_2.exe.config
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_2\second_task_2\bin\Debug\second_task_2.exe
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_2\second_task_2\bin\Debug\second_task_2.pdb
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_2\second_task_2\obj\Debug\second_task_2.csproj.AssemblyReference.cache
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_2\second_task_2\obj\Debug\second_task_2.csproj.CoreCompileInputs.cache
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_2\second_task_2\obj\Debug\second_task_2.exe
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_2\second_task_2\obj\Debug\second_task_2.pdb

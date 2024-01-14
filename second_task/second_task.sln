@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem1", "problem1\problem1.csproj", "{0A4F8FF2-602E-4DB0-88C2-CABCEAE36479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem2", "problem2\problem2.csproj", "{CF3E7CBE-A407-4E5C-A652-0E7C9AB5A30F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "problem3", "problem3\problem3.csproj", "{E93CF5C9-D1D8-4DE6-801B-C7FA6FAD63A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A4F8FF2-602E-4DB0-88C2-CABCEAE36479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A4F8FF2-602E-4DB0-88C2-CABCEAE36479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A4F8FF2-602E-4DB0-88C2-CABCEAE36479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A4F8FF2-602E-4DB0-88C2-CABCEAE36479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3E7CBE-A407-4E5C-A652-0E7C9AB5A30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3E7CBE-A407-4E5C-A652-0E7C9AB5A30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3E7CBE-A407-4E5C-A652-0E7C9AB5A30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3E7CBE-A407-4E5C-A652-0E7C9AB5A30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E93CF5C9-D1D8-4DE6-801B-C7FA6FAD63A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E93CF5C9-D1D8-4DE6-801B-C7FA6FAD63A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E93CF5C9-D1D8-4DE6-801B-C7FA6FAD63A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E93CF5C9-D1D8-4DE6-801B-C7FA6FAD63A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5E9663-3126-4D69-8140-3EB29B8F33A6}
+	EndGlobalSection
+EndGlobal
