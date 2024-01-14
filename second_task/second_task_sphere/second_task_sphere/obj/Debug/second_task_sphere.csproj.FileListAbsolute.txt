@@ -1,7 +1,0 @@
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_sphere\second_task_sphere\bin\Debug\second_task_sphere.exe.config
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_sphere\second_task_sphere\bin\Debug\second_task_sphere.exe
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_sphere\second_task_sphere\bin\Debug\second_task_sphere.pdb
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_sphere\second_task_sphere\obj\Debug\second_task_sphere.csproj.AssemblyReference.cache
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_sphere\second_task_sphere\obj\Debug\second_task_sphere.csproj.CoreCompileInputs.cache
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_sphere\second_task_sphere\obj\Debug\second_task_sphere.exe
-C:\Users\Амир\rep\C#_COURSE\second_task\second_task_sphere\second_task_sphere\obj\Debug\second_task_sphere.pdb
