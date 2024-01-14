@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\third_task\third_task\bin\Debug\third_task.exe.config
+C:\Users\Амир\rep\C#_COURSE\third_task\third_task\bin\Debug\third_task.exe
+C:\Users\Амир\rep\C#_COURSE\third_task\third_task\bin\Debug\third_task.pdb
+C:\Users\Амир\rep\C#_COURSE\third_task\third_task\obj\Debug\ProjectIf.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\third_task\third_task\obj\Debug\ProjectIf.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\third_task\third_task\obj\Debug\third_task.exe
+C:\Users\Амир\rep\C#_COURSE\third_task\third_task\obj\Debug\third_task.pdb

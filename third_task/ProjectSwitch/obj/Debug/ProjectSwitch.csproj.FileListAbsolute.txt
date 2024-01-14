@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectSwitch\obj\Debug\ProjectSwitch.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectSwitch\obj\Debug\ProjectSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectSwitch\bin\Debug\ProjectSwitch.exe.config
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectSwitch\bin\Debug\ProjectSwitch.exe
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectSwitch\bin\Debug\ProjectSwitch.pdb
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectSwitch\obj\Debug\ProjectSwitch.exe
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectSwitch\obj\Debug\ProjectSwitch.pdb

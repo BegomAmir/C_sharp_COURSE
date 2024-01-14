@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectTernaryOperator\bin\Debug\ProjectTernaryOperator.exe.config
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectTernaryOperator\bin\Debug\ProjectTernaryOperator.exe
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectTernaryOperator\bin\Debug\ProjectTernaryOperator.pdb
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectTernaryOperator\obj\Debug\ProjectTernaryOperator.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectTernaryOperator\obj\Debug\ProjectTernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectTernaryOperator\obj\Debug\ProjectTernaryOperator.exe
+C:\Users\Амир\rep\C#_COURSE\third_task\ProjectTernaryOperator\obj\Debug\ProjectTernaryOperator.pdb
