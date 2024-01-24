@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\problemEvenNumbers\obj\Debug\problemEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\problemEvenNumbers\obj\Debug\problemEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\problemEvenNumbers\bin\Debug\problemEvenNumbers.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\problemEvenNumbers\bin\Debug\problemEvenNumbers.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\problemEvenNumbers\bin\Debug\problemEvenNumbers.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\problemEvenNumbers\obj\Debug\problemEvenNumbers.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\problemEvenNumbers\obj\Debug\problemEvenNumbers.pdb
