@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopDo\bin\Debug\LoopDo.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopDo\bin\Debug\LoopDo.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopDo\bin\Debug\LoopDo.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopDo\obj\Debug\LoopDo.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopDo\obj\Debug\LoopDo.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopDo\obj\Debug\LoopDo.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopDo\obj\Debug\LoopDo.pdb

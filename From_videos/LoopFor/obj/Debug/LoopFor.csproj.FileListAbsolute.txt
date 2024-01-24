@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopFor\bin\Debug\LoopFor.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopFor\bin\Debug\LoopFor.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopFor\bin\Debug\LoopFor.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopFor\obj\Debug\LoopFor.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopFor\obj\Debug\LoopFor.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopFor\obj\Debug\LoopFor.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\LoopFor\obj\Debug\LoopFor.pdb
