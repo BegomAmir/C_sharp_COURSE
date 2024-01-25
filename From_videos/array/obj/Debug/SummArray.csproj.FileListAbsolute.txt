@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\array\bin\Debug\array.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\array\bin\Debug\array.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\array\bin\Debug\array.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\array\obj\Debug\SummArray.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\array\obj\Debug\SummArray.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\array\obj\Debug\array.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\array\obj\Debug\array.pdb

@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\Meteo\bin\Debug\Meteo.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\Meteo\bin\Debug\Meteo.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\Meteo\bin\Debug\Meteo.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\Meteo\obj\Debug\Meteo.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\Meteo\obj\Debug\Meteo.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\Meteo\obj\Debug\Meteo.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\Meteo\obj\Debug\Meteo.pdb

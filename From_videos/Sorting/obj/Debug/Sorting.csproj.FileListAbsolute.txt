@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\Sorting\bin\Debug\Sorting.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\Sorting\obj\Debug\Sorting.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\Sorting\obj\Debug\Sorting.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\Sorting\obj\Debug\Sorting.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\Sorting\obj\Debug\Sorting.pdb

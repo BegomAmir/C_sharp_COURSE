@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\FindArray\bin\Debug\FindArray.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\FindArray\bin\Debug\FindArray.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\FindArray\bin\Debug\FindArray.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\FindArray\obj\Debug\FindArray.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\FindArray\obj\Debug\FindArray.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\FindArray\obj\Debug\FindArray.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\FindArray\obj\Debug\FindArray.pdb
