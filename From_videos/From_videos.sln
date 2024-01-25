@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorting", "Sorting\Sorting.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteo", "Meteo\Meteo.csproj", "{6C10F091-D233-4042-ACD8-E29AC3A213F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.1", "5.2.1\5.2.1.csproj", "{31994048-3F19-42EB-B651-F929C34EE527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.2.2", "5.2.2\5.2.2.csproj", "{25A9686A-0675-47AF-84A1-6DEF47D195D4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{6C10F091-D233-4042-ACD8-E29AC3A213F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C10F091-D233-4042-ACD8-E29AC3A213F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C10F091-D233-4042-ACD8-E29AC3A213F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31994048-3F19-42EB-B651-F929C34EE527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31994048-3F19-42EB-B651-F929C34EE527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31994048-3F19-42EB-B651-F929C34EE527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31994048-3F19-42EB-B651-F929C34EE527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25A9686A-0675-47AF-84A1-6DEF47D195D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25A9686A-0675-47AF-84A1-6DEF47D195D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25A9686A-0675-47AF-84A1-6DEF47D195D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25A9686A-0675-47AF-84A1-6DEF47D195D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
