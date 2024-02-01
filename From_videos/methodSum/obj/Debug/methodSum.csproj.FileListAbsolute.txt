@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\methodSum\bin\Debug\methodSum.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\methodSum\bin\Debug\methodSum.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\methodSum\bin\Debug\methodSum.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\methodSum\obj\Debug\methodSum.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\methodSum\obj\Debug\methodSum.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\methodSum\obj\Debug\methodSum.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\methodSum\obj\Debug\methodSum.pdb
