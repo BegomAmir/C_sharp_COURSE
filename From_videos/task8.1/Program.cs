@@ -11,16 +11,17 @@ namespace task8._1
     {
         static void Main(string[] args)
         {
-            string path = "Logs2";
-            //if (!Directory.Exists(path))
-            //{
-            //    Directory.CreateDirectory(path);
-            //}
-            DirectoryInfo directory = new DirectoryInfo(path); 
-            if (!directory.Exists ) 
-            { 
-                directory.Create();
+            string path = "Logs2/Log.txt";
+            using (StreamWriter sw = new StreamWriter(path, true))
+            {
+                sw.WriteLine("Старт программы");
+                sw.WriteLine("Ошибка");
+            } 
+            using(StreamReader sr = new StreamReader(path))
+            {
+                Console.WriteLine(sr.ReadToEnd());
             }
+            Console.ReadKey();
         }
     }
 }
