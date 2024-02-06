@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\eighth_task\problem2\obj\Debug\problem2.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\eighth_task\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\eighth_task\problem2\bin\Debug\problem2.exe.config
+C:\Users\Амир\rep\C#_COURSE\eighth_task\problem2\bin\Debug\problem2.exe
+C:\Users\Амир\rep\C#_COURSE\eighth_task\problem2\bin\Debug\problem2.pdb
+C:\Users\Амир\rep\C#_COURSE\eighth_task\problem2\obj\Debug\problem2.exe
+C:\Users\Амир\rep\C#_COURSE\eighth_task\problem2\obj\Debug\problem2.pdb
