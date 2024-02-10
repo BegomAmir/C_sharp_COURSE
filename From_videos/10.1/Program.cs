@@ -10,7 +10,7 @@ namespace _10._1
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat("Мурка", "черный", 0 );
+            Cat cat = new Cat("Мурка", "черный", 1 );
             cat.Say();
             Console.ReadKey();
         }
