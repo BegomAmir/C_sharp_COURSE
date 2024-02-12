@@ -1,0 +1,6 @@
+C:\Users\Амир\rep\C#_COURSE\video11\video11\bin\Debug\video11.dll
+C:\Users\Амир\rep\C#_COURSE\video11\video11\bin\Debug\video11.pdb
+C:\Users\Амир\rep\C#_COURSE\video11\video11\obj\Debug\video11.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\video11\video11\obj\Debug\video11.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\video11\video11\obj\Debug\video11.dll
+C:\Users\Амир\rep\C#_COURSE\video11\video11\obj\Debug\video11.pdb
