@@ -8,6 +8,7 @@ namespace video11
 {
     public class Cat
     {
+        public static string voice = "Мяу";
         public const int countFeet = 4;
         public readonly bool wool = true;
         public string Name { get; set; }

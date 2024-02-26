@@ -11,8 +11,9 @@ namespace _10._1
     {
         static void Main(string[] args)
         {
-            Cat cat = new Cat("Мурка", "черный", 1);
+            Cat cat = new Cat("Мурка", "черный", 1, true);
             cat.Say();
+            Console.WriteLine(Cat.voice);
             Console.ReadKey();
         }
 
