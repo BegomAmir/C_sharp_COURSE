@@ -5,3 +5,6 @@ C:\Users\Амир\rep\C#_COURSE\From_videos\10.1\obj\Debug\10.1.csproj.AssemblyR
 C:\Users\Амир\rep\C#_COURSE\From_videos\10.1\obj\Debug\10.1.csproj.CoreCompileInputs.cache
 C:\Users\Амир\rep\C#_COURSE\From_videos\10.1\obj\Debug\10.1.exe
 C:\Users\Амир\rep\C#_COURSE\From_videos\10.1\obj\Debug\10.1.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\10.1\bin\Debug\video11.dll
+C:\Users\Амир\rep\C#_COURSE\From_videos\10.1\bin\Debug\video11.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\10.1\obj\Debug\10.1.csproj.CopyComplete

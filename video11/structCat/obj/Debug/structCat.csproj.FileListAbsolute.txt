@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\video11\structCat\bin\Debug\structCat.exe.config
+C:\Users\Амир\rep\C#_COURSE\video11\structCat\bin\Debug\structCat.exe
+C:\Users\Амир\rep\C#_COURSE\video11\structCat\bin\Debug\structCat.pdb
+C:\Users\Амир\rep\C#_COURSE\video11\structCat\obj\Debug\structCat.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\video11\structCat\obj\Debug\structCat.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\video11\structCat\obj\Debug\structCat.exe
+C:\Users\Амир\rep\C#_COURSE\video11\structCat\obj\Debug\structCat.pdb
