@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\17.1\bin\Debug\17.1.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\17.1\bin\Debug\17.1.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\17.1\bin\Debug\17.1.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\17.1\obj\Debug\17.1.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\17.1\obj\Debug\17.1.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\17.1\obj\Debug\17.1.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\17.1\obj\Debug\17.1.pdb
