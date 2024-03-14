@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\Pryamaya\bin\Debug\Pryamaya.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\Pryamaya\bin\Debug\Pryamaya.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\Pryamaya\bin\Debug\Pryamaya.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\Pryamaya\obj\Debug\Pryamaya.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\Pryamaya\obj\Debug\Pryamaya.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\Pryamaya\obj\Debug\Pryamaya.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\Pryamaya\obj\Debug\Pryamaya.pdb
