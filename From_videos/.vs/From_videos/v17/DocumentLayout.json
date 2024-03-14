@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{017E15F3-C662-4BF1-9285-DC1981C4013B}|17.2\\17.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\17.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017E15F3-C662-4BF1-9285-DC1981C4013B}|17.2\\17.2.csproj|solutionrelative:17.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF06340-46BB-4BC6-B77D-C39A9E3BD476}|18.2\\18.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\18.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF06340-46BB-4BC6-B77D-C39A9E3BD476}|18.2\\18.2.csproj|solutionrelative:18.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{017E15F3-C662-4BF1-9285-DC1981C4013B}|17.2\\17.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\17.2\\empoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{017E15F3-C662-4BF1-9285-DC1981C4013B}|17.2\\17.2.csproj|solutionrelative:17.2\\empoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{242EC1B2-2AA4-4623-9169-D44ACE7D748B}|14.1\\14.1.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\14.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242EC1B2-2AA4-4623-9169-D44ACE7D748B}|14.1\\14.1.csproj|solutionrelative:14.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E9DA065-B57A-44A8-B5FD-7523DEA992C7}|18.1\\18.1.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\18.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E9DA065-B57A-44A8-B5FD-7523DEA992C7}|18.1\\18.1.csproj|solutionrelative:18.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,34 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Empoyee.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\17.2\\Empoyee.cs",
-              "RelativeDocumentMoniker": "17.2\\Empoyee.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\17.2\\Empoyee.cs",
-              "RelativeToolTip": "17.2\\Empoyee.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T09:51:52.842Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\17.2\\Program.cs",
-              "RelativeDocumentMoniker": "17.2\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\17.2\\Program.cs",
-              "RelativeToolTip": "17.2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAUAAAA",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\18.2\\Program.cs",
+              "RelativeDocumentMoniker": "18.2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\18.2\\Program.cs",
+              "RelativeToolTip": "18.2\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCcAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T09:47:30.669Z",
+              "WhenOpened": "2024-03-14T08:30:50.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\14.1\\Program.cs",
+              "RelativeDocumentMoniker": "14.1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\14.1\\Program.cs",
+              "RelativeToolTip": "14.1\\Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T08:20:06.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\18.1\\Program.cs",
+              "RelativeDocumentMoniker": "18.1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\18.1\\Program.cs",
+              "RelativeToolTip": "18.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T18:37:19.808Z",
               "EditorCaption": ""
             }
           ]
