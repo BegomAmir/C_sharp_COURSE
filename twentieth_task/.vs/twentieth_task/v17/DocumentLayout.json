@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\twentieth_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AED3560-0E20-4662-B5FB-509191FF507E}|problem1\\problem1.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\twentieth_task\\problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AED3560-0E20-4662-B5FB-509191FF507E}|problem1\\problem1.csproj|solutionrelative:problem1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\twentieth_task\\problem1\\Program.cs",
+              "RelativeDocumentMoniker": "problem1\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\twentieth_task\\problem1\\Program.cs",
+              "RelativeToolTip": "problem1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T15:08:46.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
