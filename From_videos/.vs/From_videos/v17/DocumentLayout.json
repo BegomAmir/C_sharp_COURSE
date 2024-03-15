@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BE601DBF-FCF2-4364-9F41-E50D3035986D}|19.2\\19.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\19.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE601DBF-FCF2-4364-9F41-E50D3035986D}|19.2\\19.2.csproj|solutionrelative:19.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE601DBF-FCF2-4364-9F41-E50D3035986D}|19.2\\19.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\19.2\\empoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE601DBF-FCF2-4364-9F41-E50D3035986D}|19.2\\19.2.csproj|solutionrelative:19.2\\empoyee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C353193F-D774-4AD9-88CA-E601F80BAC47}|20.2\\20.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\20.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C353193F-D774-4AD9-88CA-E601F80BAC47}|20.2\\20.2.csproj|solutionrelative:20.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Empoyee.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\19.2\\Empoyee.cs",
-              "RelativeDocumentMoniker": "19.2\\Empoyee.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\19.2\\Empoyee.cs",
-              "RelativeToolTip": "19.2\\Empoyee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:11:59.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\19.2\\Program.cs",
-              "RelativeDocumentMoniker": "19.2\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\19.2\\Program.cs",
-              "RelativeToolTip": "19.2\\Program.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAQwDkAAAAJAAAA",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\20.2\\Program.cs",
+              "RelativeDocumentMoniker": "20.2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\20.2\\Program.cs",
+              "RelativeToolTip": "20.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T12:11:30.355Z",
+              "WhenOpened": "2024-03-15T14:11:10.825Z",
               "EditorCaption": ""
             }
           ]
