@@ -1,0 +1,7 @@
+C:\Users\Амир\rep\C#_COURSE\From_videos\21.2\bin\Debug\21.2.exe.config
+C:\Users\Амир\rep\C#_COURSE\From_videos\21.2\bin\Debug\21.2.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\21.2\bin\Debug\21.2.pdb
+C:\Users\Амир\rep\C#_COURSE\From_videos\21.2\obj\Debug\21.2.csproj.AssemblyReference.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\21.2\obj\Debug\21.2.csproj.CoreCompileInputs.cache
+C:\Users\Амир\rep\C#_COURSE\From_videos\21.2\obj\Debug\21.2.exe
+C:\Users\Амир\rep\C#_COURSE\From_videos\21.2\obj\Debug\21.2.pdb
