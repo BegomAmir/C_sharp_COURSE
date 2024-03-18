@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BED0925A-FDA5-4B1A-A826-B2F62DAC6EE3}|23.2\\23.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\23.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BED0925A-FDA5-4B1A-A826-B2F62DAC6EE3}|23.2\\23.2.csproj|solutionrelative:23.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6F5353D-8FF0-4E74-A0E5-F324BBC7242B}|23.1\\23.1.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\23.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6F5353D-8FF0-4E74-A0E5-F324BBC7242B}|23.1\\23.1.csproj|solutionrelative:23.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{820B322C-45EF-485B-84E9-8D383E317274}|22.2\\22.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\22.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{820B322C-45EF-485B-84E9-8D383E317274}|22.2\\22.2.csproj|C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\22.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{820B322C-45EF-485B-84E9-8D383E317274}|22.2\\22.2.csproj|solutionrelative:22.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -44,18 +48,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\23.2\\Program.cs",
+              "RelativeDocumentMoniker": "23.2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\23.2\\Program.cs",
+              "RelativeToolTip": "23.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T12:31:35.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\23.1\\Program.cs",
               "RelativeDocumentMoniker": "23.1\\Program.cs",
               "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\23.1\\Program.cs",
               "RelativeToolTip": "23.1\\Program.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAAAkwEoAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T11:38:17.594Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\22.2\\Program.cs",
               "RelativeDocumentMoniker": "22.2\\Program.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "22.2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T08:45:01.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-18T08:45:01.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.2\\Program.cs",
               "RelativeDocumentMoniker": "21.2\\Program.cs",
@@ -80,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\Meteo\\Program.cs",
               "RelativeDocumentMoniker": "Meteo\\Program.cs",
@@ -92,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.1.2\\Program.cs",
               "RelativeDocumentMoniker": "21.1.2\\Program.cs",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.1\\Program.cs",
               "RelativeDocumentMoniker": "21.1\\Program.cs",
