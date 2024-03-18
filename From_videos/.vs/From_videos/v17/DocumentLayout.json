@@ -3,19 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{820B322C-45EF-485B-84E9-8D383E317274}|22.2\\22.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\22.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{820B322C-45EF-485B-84E9-8D383E317274}|22.2\\22.2.csproj|solutionrelative:22.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D2F3C8EF-59AC-4078-81F1-6C03B1EBA37B}|21.2\\21.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\21.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2F3C8EF-59AC-4078-81F1-6C03B1EBA37B}|21.2\\21.2.csproj|solutionrelative:21.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C10F091-D233-4042-ACD8-E29AC3A213F3}|Meteo\\Meteo.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\meteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C10F091-D233-4042-ACD8-E29AC3A213F3}|Meteo\\Meteo.csproj|C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\meteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C10F091-D233-4042-ACD8-E29AC3A213F3}|Meteo\\Meteo.csproj|solutionrelative:meteo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F35F837C-22DB-43CB-8E21-BD80C17B3AA3}|21.1.2\\21.1.2.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\21.1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F35F837C-22DB-43CB-8E21-BD80C17B3AA3}|21.1.2\\21.1.2.csproj|C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F35F837C-22DB-43CB-8E21-BD80C17B3AA3}|21.1.2\\21.1.2.csproj|solutionrelative:21.1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90E0ED1E-B0BB-403D-B1BC-C75DF5E1DDC3}|21.1\\21.1.csproj|c:\\users\\\u0430\u043C\u0438\u0440\\rep\\c#_course\\from_videos\\21.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90E0ED1E-B0BB-403D-B1BC-C75DF5E1DDC3}|21.1\\21.1.csproj|C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90E0ED1E-B0BB-403D-B1BC-C75DF5E1DDC3}|21.1\\21.1.csproj|solutionrelative:21.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,18 +40,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\22.2\\Program.cs",
+              "RelativeDocumentMoniker": "22.2\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\22.2\\Program.cs",
+              "RelativeToolTip": "22.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-18T08:45:01.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.2\\Program.cs",
               "RelativeDocumentMoniker": "21.2\\Program.cs",
               "ToolTip": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.2\\Program.cs",
               "RelativeToolTip": "21.2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T10:16:36.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\Meteo\\Program.cs",
               "RelativeDocumentMoniker": "Meteo\\Program.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "Meteo\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T10:15:35.712Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T10:15:35.712Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.1.2\\Program.cs",
               "RelativeDocumentMoniker": "21.1.2\\Program.cs",
@@ -68,12 +84,11 @@
               "RelativeToolTip": "21.1.2\\Program.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T10:02:44.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T10:02:44.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0410\u043C\u0438\u0440\\rep\\C#_COURSE\\From_videos\\21.1\\Program.cs",
               "RelativeDocumentMoniker": "21.1\\Program.cs",
@@ -81,8 +96,7 @@
               "RelativeToolTip": "21.1\\Program.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwCMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T09:36:04.201Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-16T09:36:04.201Z"
             }
           ]
         }
